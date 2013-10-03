@@ -8,4 +8,4 @@
 - [Prose.io](http://prose.io/)
 - [github.com/ajlai/github-heroku-pusher](https://github.com/ajlai/github-heroku-pusher)
 
-Presentation made with reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
+Presentation made with reveal.js
