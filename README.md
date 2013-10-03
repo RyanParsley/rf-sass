@@ -1,5 +1,7 @@
 # In search of a (more) sensible workflow for developing HTML email
 
+This presentation can be viewed at [http://ryanparsley.github.io/html-email-presentation](http://ryanparsley.github.io/html-email-presentation)
+
 ## Featuring
 
 - [github.com/RyanParsley/mailman](https://github.com/RyanParsley/mailman)
