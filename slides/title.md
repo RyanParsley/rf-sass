@@ -1,3 +1,3 @@
-# Tools for a (more) sensible HTML email workflow
+# Sass is pretty cool!
 
 Ryan Parsley
