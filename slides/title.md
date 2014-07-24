@@ -1,3 +1,3 @@
 # Sass is pretty cool!
 
-Ryan Parsley
+&mdash;Ryan Parsley
