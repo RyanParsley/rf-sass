@@ -4,6 +4,4 @@ This presentation can be viewed at [http://ryanparsley.github.io/rf-sass/](http:
 
 ## Featuring
 
-- [middlemanapp.com](http://middlemanapp.com/)
-
 Presentation made with [reveal.js](http://lab.hakim.se/reveal-js/)
